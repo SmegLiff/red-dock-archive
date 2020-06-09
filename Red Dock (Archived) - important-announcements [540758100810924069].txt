@@ -1,36 +1,60 @@
 
 [11-Sep-19 01:10 PM] MEE6#4876
-Bruh Mr_Cousland#0557 why did you leave?
+Bruh 
+Mr_Cousland#0557
+ why did you leave?
 
 [01-Feb-19 12:00 AM] danvivos#3447
 to put a waypoint on a map 1. name a banner in an anvil, 2. put it down where u want it to mark and 3. right click the with the map u want to put the waypoint on at the base of the named banner
 
 [02-Feb-19 02:53 PM] James B#9189
-@Red Dock Citizens we need to sort a few things out with red dock so if you could pls put down your timezones and ping me i could set up a meeting
+@Red Dock Citizens
+ we need to sort a few things out with red dock so if you could pls put down your timezones and ping me i could set up a meeting
 
 [03-Feb-19 03:58 PM] danvivos#3447
-https://docs.google.com/document/d/1x2wlxQ88ysBBFNmCeHZH9__D6Uf73F18viT93gIRfZU/edit?usp=sharingState of the Dock 1STATE OF THE DOCK This is da big mafia boss dan speaking. i’m making this report as a way to consolidate all town info into one place, helping ppl who are less up to date on things catch up and know what’s going on. Thanks everyone for your hard work on the town and i’m...@Red Dock Citizens here is the weekly newsletter! please read to get up to date!
+https://docs.google.com/document/d/1x2wlxQ88ysBBFNmCeHZH9__D6Uf73F18viT93gIRfZU/edit?usp=sharing
+State of the Dock 1
+STATE OF THE DOCK This is da big mafia boss dan speaking. i’m making this report as a way to consolidate all town info into one place, helping ppl who are less up to date on things catch up and know what’s going on. Thanks everyone for your hard work on the town and i’m...
+@Red Dock Citizens
+ here is the weekly newsletter! please read to get up to date!
 
 [03-Feb-19 06:38 PM] danvivos#3447
-http://www.anonvote.com/strawpoll/ve13920kStraw Poll: TOWN WALLS!Vote now: TOWN WALLS!vote for your favorite wall @everyone
+http://www.anonvote.com/strawpoll/ve13920k
+Straw Poll: TOWN WALLS!
+Vote now: TOWN WALLS!
+vote for your favorite wall 
+@everyone
 
 [03-Feb-19 11:51 PM] danvivos#3447
-@everyone  results are in: we"re going with pen"s design! give him a pat on the back when you see him for his incredible building prowess
+@everyone
+  results are in: we're going with pen's design! give him a pat on the back when you see him for his incredible building prowess
 
 [04-Feb-19 05:11 AM] danvivos#3447
 @everyone
 Attachment: https://cdn.discordapp.com/attachments/540758100810924069/541923630397784064/unknown.png
 
 [04-Feb-19 05:46 AM] James B#9189
-@Red Dock Citizens this is wat the final wall design looks like pen made it https://cdn.discordapp.com/attachments/540672911518859276/541515226126876672/2019-02-03_15.07.54.png
+@Red Dock Citizens
+ this is wat the final wall design looks like pen made it 
+https://cdn.discordapp.com/attachments/540672911518859276/541515226126876672/2019-02-03_15.07.54.png
+Attachment: https://cdn.discordapp.com/attachments/540672911518859276/541515226126876672/2019-02-03_15.07.54.png
+Attachment: chatlog__embed-thumbnail-link
 
 [04-Feb-19 09:08 PM] James B#9189
-@Red Dock Citizens the meeting has been scheduled at these times it will be for this Saturday GMT so for aussies it will be Sunday i understand some have Saturday school but this is the best time i could do it just join the members call at the stated time. https://docs.google.com/spreadsheets/d/1xcbHPcN71wlaBajBY4vFDPbsHipRDsuyxzxkTB2dWII/edit?usp=sharingMeeting time proposalSheet1
+@Red Dock Citizens
+ the meeting has been scheduled at these times it will be for this Saturday GMT so for aussies it will be Sunday i understand some have Saturday school but this is the best time i could do it just join the members call at the stated time. 
+https://docs.google.com/spreadsheets/d/1xcbHPcN71wlaBajBY4vFDPbsHipRDsuyxzxkTB2dWII/edit?usp=sharing
+Meeting time proposal
+Sheet1
 Time Zones,PST -8,MST -7,GMT 0,SAST +2,AEDT +11
 meeting proposal,2:00 PM,3:00 PM,10:00 PM,12:00 PM,9:00 AM
+Attachment: https://docs.google.com/spreadsheets/d/1xcbHPcN71wlaBajBY4vFDPbsHipRDsuyxzxkTB2dWII/edit?usp=sharing
+Attachment: chatlog__embed-title-link
+Attachment: chatlog__embed-thumbnail-link
 
 [05-Feb-19 06:47 AM] APeninSpace#7335
-@everyone WE ARE NOW BANNING SLEEPING. ALL PEOPLE CAUGHT SLEEPING WILL BE KILLED VIA BRAZEN BULL
+@everyone
+ WE ARE NOW BANNING SLEEPING. ALL PEOPLE CAUGHT SLEEPING WILL BE KILLED VIA BRAZEN BULL
 
 [05-Feb-19 06:48 AM] danvivos#3447
 Vetoed in parliament
@@ -39,57 +63,104 @@ Vetoed in parliament
 I DISSOLVE PARLIMENT
 
 [05-Feb-19 04:58 PM] danvivos#3447
-@Red Dock Citizens  please review this link for useful commands if you"re trying to make a bunker/community locked chest/doors. specifically @Boppolopian and @James B, you guys should be finding a lot of these pretty usefulhttps://github.com/Hidendra/LWC/wiki/CommandsHidendra/LWCLightweight Protection for Chests, Furnaces, Dispensers, and more for the Minecraft server mod Bukkit - Hidendra/LWCi"d recommend /cpassword for the bunkers and nether portal room for protection and /lwc mode persist if you"re trying to hamfist your way through a bunch of chests/doors
+@Red Dock Citizens
+  please review this link for useful commands if you're trying to make a bunker/community locked chest/doors. specifically 
+@Boppolopian
+ and 
+@James B
+, you guys should be finding a lot of these pretty useful
+https://github.com/Hidendra/LWC/wiki/Commands
+Hidendra/LWC
+Lightweight Protection for Chests, Furnaces, Dispensers, and more for the Minecraft server mod Bukkit - Hidendra/LWC
+i'd recommend /cpassword for the bunkers and nether portal room for protection and /lwc mode persist if you're trying to hamfist your way through a bunch of chests/doors
+Attachment: https://github.com/Hidendra/LWC/wiki/Commands
+Attachment: chatlog__embed-title-link
+Attachment: chatlog__embed-thumbnail-link
 
 [05-Feb-19 07:39 PM] James B#9189
-@everyone nba posted thisThe Minecraft server (on 1.13.2 Java edition IP: osmc.teengamingnights.net) will undergo host migration to a complete new host to keep up with the growing demand of resources on Thursday, February 14 at 12:00 PM PST (-8 GMT). This will result in a beefy downtime period of 6 hours to allow room for extensive testing, files, and database transfers. 
+@everyone
+ nba posted this
+The Minecraft server (on 1.13.2 Java edition IP: osmc.teengamingnights.net) will undergo host migration to a complete new host to keep up with the growing demand of resources on Thursday, February 14 at 12:00 PM PST (-8 GMT). This will result in a beefy downtime period of 6 hours to allow room for extensive testing, files, and database transfers. 
 We expect to be back online at 6:00 PM PST (-8 GMT).
 Thanks for your continued support and patience during this downtime!
 
 [06-Feb-19 10:24 AM] James B#9189
-the meeting has been scheduled at these times it will be for this Saturday GMT so for aussies it will be Sunday i understand some have Saturday school but this is the best time i could do it just join the members call at the stated time. https://docs.google.com/spreadsheets/d/1xcbHPcN71wlaBajBY4vFDPbsHipRDsuyxzxkTB2dWII/edit?usp=sharingMeeting time proposalSheet1
+the meeting has been scheduled at these times it will be for this Saturday GMT so for aussies it will be Sunday i understand some have Saturday school but this is the best time i could do it just join the members call at the stated time. 
+https://docs.google.com/spreadsheets/d/1xcbHPcN71wlaBajBY4vFDPbsHipRDsuyxzxkTB2dWII/edit?usp=sharing
+Meeting time proposal
+Sheet1
 Time Zones,PST -8,MST -7,GMT 0,SAST +2,AEDT +11
-meeting proposal,2:00 PM,3:00 PM,10:00 PM,12:00 AM,9:00 AMPinned a message.
+meeting proposal,2:00 PM,3:00 PM,10:00 PM,12:00 AM,9:00 AM
+Pinned a message.
+Attachment: https://docs.google.com/spreadsheets/d/1xcbHPcN71wlaBajBY4vFDPbsHipRDsuyxzxkTB2dWII/edit?usp=sharing
+Attachment: chatlog__embed-title-link
+Attachment: chatlog__embed-thumbnail-link
 
 [06-Feb-19 03:16 PM] James B#9189
-TGN Discordhttps://discordapp.com/invite/SCZpqvNif not in i would suggest to join
+TGN Discord
+https://discordapp.com/invite/SCZpqvN
+if not in i would suggest to join
+Attachment: https://discordapp.com/invite/SCZpqvN
 
 [06-Feb-19 04:40 PM] James B#9189
-@Red Dock Citizens we need submissions for the main entrance of the wall make sure it suits the design of the wallwall design https://cdn.discordapp.com/attachments/540672911518859276/541515226126876672/2019-02-03_15.07.54.png
+@Red Dock Citizens
+ we need submissions for the main entrance of the wall make sure it suits the design of the wall
+wall design 
+https://cdn.discordapp.com/attachments/540672911518859276/541515226126876672/2019-02-03_15.07.54.png
+Attachment: https://cdn.discordapp.com/attachments/540672911518859276/541515226126876672/2019-02-03_15.07.54.png
+Attachment: chatlog__embed-thumbnail-link
 
 [08-Feb-19 09:42 AM] James B#9189
-@Red Dock Citizens remember meeting  tomorrow 
+@Red Dock Citizens
+ remember meeting 
+ tomorrow 
 
 [08-Feb-19 03:50 PM] James B#9189
-@Red Dock Citizens for inviting people to this server please use this invite linkhttps://discord.gg/TbZm4cdPinned a message.
+@Red Dock Citizens
+ for inviting people to this server please use this invite link
+https://discord.gg/TbZm4cd
+Pinned a message.
+Attachment: https://discord.gg/TbZm4cd
 
 [09-Feb-19 04:02 PM] James B#9189
-@Red Dock Citizens meeting in an hour start filtering in to members call 5 mins before
+@Red Dock Citizens
+ meeting in an hour start filtering in to members call 5 mins before
 
 [09-Feb-19 04:55 PM] James B#9189
-@Red Dock Citizens start getting into members call for meeting
+@Red Dock Citizens
+ start getting into members call for meeting
 
 [09-Feb-19 06:12 PM] James B#9189
-@Red Dock Citizens meeting overview https://docs.google.com/document/d/1v0Vtv1aoPOCTRQAVy9MnWoam2r7ZFcw8T-0h-ihDsXE/edit?usp=sharingMeeting overviewMeeting overview  Building wise we are prioritising building the wall and renovating the pathways. (holding off all community project untill all current ones are finished) Need like 1 or 2 more recruiting officers contact mini or James for that please specify time zone Move s...
+@Red Dock Citizens
+ meeting overview 
+https://docs.google.com/document/d/1v0Vtv1aoPOCTRQAVy9MnWoam2r7ZFcw8T-0h-ihDsXE/edit?usp=sharing
+Meeting overview
+Meeting overview  Building wise we are prioritising building the wall and renovating the pathways. (holding off all community project untill all current ones are finished) Need like 1 or 2 more recruiting officers contact mini or James for that please specify time zone Move s...
 
 [09-Feb-19 10:44 PM] APeninSpace#7335
-@Boppolopian found a nether star! if we"re lucky he"ll allow us to put a beacon at town hall!
+@Boppolopian
+ found a nether star! if we're lucky he'll allow us to put a beacon at town hall!
 
 [11-Feb-19 06:24 PM] James B#9189
-from thishttps://cdn.discordapp.com/attachments/540080272629039132/544659069604986881/red_dock_day.pngto thishttps://cdn.discordapp.com/attachments/540080272629039132/544659172973871115/red_dock_2.pnghttps://cdn.discordapp.com/attachments/540080272629039132/544659197791567873/red_dock_3.png
+from this
+https://cdn.discordapp.com/attachments/540080272629039132/544659069604986881/red_dock_day.png
+to this
+https://cdn.discordapp.com/attachments/540080272629039132/544659172973871115/red_dock_2.png
+https://cdn.discordapp.com/attachments/540080272629039132/544659197791567873/red_dock_3.png
 
 [11-Feb-19 08:50 PM] APeninSpace#7335
 WHY ARE PEOPLE BUILDING IN THE PORT ZONE
 
 [13-Feb-19 01:44 AM] APeninSpace#7335
-@everyone we are giving out FREE land in spawnwest in response to an unopposed annexation
+@everyone
+ we are giving out FREE land in spawnwest in response to an unopposed annexation
 
 [13-Feb-19 04:43 AM] danvivos#3447
 recipe for carbonara: 
 My process is always as follows
 Fry chopped bacon until crispy and all grease is released.
 Sweat minced garlic in bacon grease until fragrant
-Add cooked pasta, don"t dump pasta water, stir until coated with grease
+Add cooked pasta, don't dump pasta water, stir until coated with grease
 Remove from heat, add cheese, mix until cheese coats pasta
 Add mixed whole eggs, stir constantly until sauce forms and is consistent *EDIT: Add pasta water 2 Tbsp at a time to thicken sauce if necessary.
 Adding the cheese first allows the pasta and pan to cool sufficiently, and prevents clumps from forming in the cheese.
@@ -98,13 +169,22 @@ Adding the cheese first allows the pasta and pan to cool sufficiently, and preve
 um why
 
 [13-Feb-19 07:03 AM] James B#9189
-@everyone WE HAVE 50 CONFIRMED RED DOCK MEMBERSsorry for the ping i just got very exited
+@everyone
+ 
+WE HAVE 50 CONFIRMED RED DOCK MEMBERS
+sorry for the ping i just got very exited
 
 [13-Feb-19 04:30 PM] James B#9189
-@everyone Update: Recruitment Officers have been upgraded to @deleted-role they are now the moderator team for the discordAlso new member of the council @Lillwargen
+@everyone
+ Update: Recruitment Officers have been upgraded to 
+@deleted-role
+ they are now the moderator team for the discord
+Also new member of the council 
+@Lillwargen
 
 [13-Feb-19 10:39 PM] James B#9189
-@everyone I"m looking for one or two more Captains (Mods) for the discord if you want to be one please PM me
+@everyone
+ I'm looking for one or two more Captains (Mods) for the discord if you want to be one please PM me
 
 [13-Feb-19 10:40 PM] danvivos#3447
 me me pick me
@@ -113,19 +193,27 @@ me me pick me
 Me
 
 [13-Feb-19 10:59 PM] James B#9189
-Applications from Friends of Red Dock May be considered
+Applications from Friends of Red Dock 
+May
+ be considered
 
 [14-Feb-19 03:10 AM] APeninSpace#7335
-can I be a mod plsalso the leader of reddock is gay
+can I be a mod pls
+also the leader of reddock is gay
 
 [14-Feb-19 06:19 AM] James B#9189
-@everyone moderator application https://docs.google.com/forms/d/e/1FAIpQLSc_-ZEQ_ZieADr2G3LESb2IKSI6qdhMDFI7HcAFaF8mIS9YRA/viewform?usp=sf_linkModerator Application
+@everyone
+ moderator application 
+https://docs.google.com/forms/d/e/1FAIpQLSc_-ZEQ_ZieADr2G3LESb2IKSI6qdhMDFI7HcAFaF8mIS9YRA/viewform?usp=sf_link
+Moderator Application
 
 [15-Feb-19 07:38 AM] James B#9189
-@everyone moderator applications end at midnight tonight GMT
+@everyone
+ moderator applications end at midnight tonight GMT
 
 [15-Feb-19 05:21 PM] Mr Ma’am#7079
-@everyone we have a record holder in our town! Highest amount of deaths in the entire server, goes to Minimitii at 226!
+@everyone
+ we have a record holder in our town! Highest amount of deaths in the entire server, goes to Minimitii at 226!
 
 [15-Feb-19 05:22 PM] James B#9189
 well done
@@ -143,7 +231,8 @@ Moderator applications are now closed
 applications for my sex dungeon workers now open
 
 [15-Feb-19 09:03 PM] APeninSpace#7335
-@everyone RULE REDDOCK, REDDOCK RULES THE WAVES!
+@everyone
+ RULE REDDOCK, REDDOCK RULES THE WAVES!
 
 [15-Feb-19 09:03 PM] James B#9189
 the fuck the point of this ping
@@ -152,13 +241,24 @@ the fuck the point of this ping
 just building up patriotism for the defensive alliance with the pit
 
 [15-Feb-19 09:13 PM] James B#9189
-@REeeee @Zepp @harry @Boppolopian @Wuzado pls pm me or dan for a time that you will be available for an interveiw
+@REeeee
+ 
+@Zepp
+ 
+@harry
+ 
+@Boppolopian
+ 
+@Wuzado
+ pls pm me or dan for a time that you will be available for an interveiw
 
 [15-Feb-19 09:13 PM] danvivos#3447
-sorry for everyone who didn"t make itwe still love you
+sorry for everyone who didn't make it
+we still love you
 
 [18-Feb-19 06:33 AM] James B#9189
-@everyone The leaders of Salmon Lake, Volcano Cult, Japan, The Pit, and Red Dock announce our own United Nations. Peace has been achieved between major settlements.
+@everyone
+ The leaders of Salmon Lake, Volcano Cult, Japan, The Pit, and Red Dock announce our own United Nations. Peace has been achieved between major settlements.
 
 [18-Feb-19 06:34 AM] APeninSpace#7335
 what do we do about prosperity
@@ -167,121 +267,194 @@ what do we do about prosperity
 Pinned a message.
 
 [18-Feb-19 12:00 PM] James B#9189
-@everyone THE FUCK HAS ALL OF OUR COWS AND SHEEP GONE
+@everyone
+ 
+THE FUCK HAS ALL OF OUR COWS AND SHEEP GONE
 
 [18-Feb-19 03:06 PM] James B#9189
-@everyone ok wat happened to the beacon in the town centre im down there now and there is two iron block missing and it has been blocked with cobblenevermind it turns out alot of the iron is gone
+@everyone
+ ok wat happened to the beacon in the town centre im down there now and there is two iron block missing and it has been blocked with cobble
+nevermind it turns out alot of the iron is gone
 
 [18-Feb-19 10:00 PM] James B#9189
-@everyone join this https://discord.gg/NNGeQpbPinned a message.by the way its not just 1 person its an old invite link
+@everyone
+ join this 
+https://discord.gg/NNGeQpb
+Pinned a message.
+by the way its not just 1 person its an old invite link
 
 [18-Feb-19 10:10 PM] James B#9189
-also upvote this @everyone https://www.reddit.com/r/teengamingnights/comments/as5on3/tgn_un_discord_is_now_open/r/teengamingnights - TGN UN discord is now open!2 votes and 1 comment so far on Reddit
+also upvote this 
+@everyone
+ 
+https://www.reddit.com/r/teengamingnights/comments/as5on3/tgn_un_discord_is_now_open/
+r/teengamingnights - TGN UN discord is now open!
+2 votes and 1 comment so far on Reddit
 
 [19-Feb-19 04:30 PM] James B#9189
-@everyone If you haven"t joined this discord yet i would Highly recommend you do. https://discord.gg/CQHsHX8
+@everyone
+ If you haven't joined this discord yet i would 
+Highly
+ recommend you do. 
+https://discord.gg/CQHsHX8
 
 [20-Feb-19 11:36 AM] danvivos#3447
-@everyone  i"m officially retiring as a council member woohoo now i"m just a lowly citizen like everyone else
+@everyone
+  i'm officially retiring as a council member woohoo now i'm just a lowly citizen like everyone else
 
 [20-Feb-19 11:45 AM] James B#9189
-@everyone @REeeee  @Zepp  @harry  @Boppolopian  @Wuzado are now the new captains
+@everyone
+ 
+@REeeee
+  
+@Zepp
+  
+@harry
+  
+@Boppolopian
+  
+@Wuzado
+ are now the new captains
 
 [20-Feb-19 12:10 PM] Lillwargen#7666
-@everyone I would like to make a public apology to @Missmaky, I have behaved badly towards her and I hope that both she and everyone who took anything I wrote "personally" will forgive me, I hope for a better tomorrow and that everyone will continue having fun in Red Dock. sincerely your Commodore, Lillwargen.
+@everyone
+ I would like to make a public apology to 
+@Missmaky
+, I have behaved badly towards her and I hope that both she and everyone who took anything I wrote 'personally' will forgive me, I hope for a better tomorrow and that everyone will continue having fun in Red Dock. sincerely your Commodore, Lillwargen.
 
 [20-Feb-19 03:49 PM] James B#9189
-@everyone pls check the changes to #rules-and-info
+@everyone
+ pls check the changes to 
+#rules-and-info
 
 [22-Feb-19 07:22 AM] APeninSpace#7335
-@everyone the council is happy to announce that @Lillwargen had been promoted to admiral, to replace Dan who has stepped down recently. @LEMON JUICE has also stepped up to become a commodore!
+@everyone
+ the council is happy to announce that 
+@Lillwargen
+ had been promoted to admiral, to replace Dan who has stepped down recently. 
+@LEMON JUICE
+ has also stepped up to become a commodore!
 
 [22-Feb-19 07:26 AM] LEMON JUICE#1816
 this is so epic
 
 [22-Feb-19 12:16 PM] LEMON JUICE#1816
-@everyone  we now have a town villager breeder and trading hall near the arena make sure to feed them so they make the lotta babies
+@everyone
+  we now have a town villager breeder and trading hall near the arena make sure to feed them so they make the lotta babies
 
 [22-Feb-19 12:17 PM] James B#9189
 BABIES
 
 [22-Feb-19 12:17 PM] LEMON JUICE#1816
-BABIEDSin other news alex has 21 pages of messages asking for dickhttps://cdn.discordapp.com/attachments/235888301930708992/548554803874234379/unknown.png
+BABIEDS
+in other news alex has 21 pages of messages asking for dick
+https://cdn.discordapp.com/attachments/235888301930708992/548554803874234379/unknown.png
 
 [22-Feb-19 02:03 PM] LEMON JUICE#1816
-@everyone PLEASE BEGIN TO REPLACE THE ROADS WITH THIS ASAP https://media.discordapp.net/attachments/540760594148622338/548579746070396964/2019-02-22_18.58.24.png?width=889&height=471
+@everyone
+ PLEASE BEGIN TO REPLACE THE ROADS WITH THIS ASAP 
+https://media.discordapp.net/attachments/540760594148622338/548579746070396964/2019-02-22_18.58.24.png?width=889&height=471
 
 [22-Feb-19 07:40 PM] APeninSpace#7335
-@everyone. THERE IS A FAILED UN ROOM UNDERNEATH THE WORKSHOP FULL OF THIS IF WE NEED MORE
+@everyone
+. THERE IS A FAILED UN ROOM UNDERNEATH THE WORKSHOP FULL OF THIS IF WE NEED MORE
 
 [23-Feb-19 05:59 AM] LEMON JUICE#1816
-@APeninSpace  WHERE IS THE FUCKING WORKSHOP?
+@APeninSpace
+  WHERE IS THE FUCKING WORKSHOP?
 
 [23-Feb-19 07:34 AM] APeninSpace#7335
-@LEMON JUICE NETHER HUB
+@LEMON JUICE
+ NETHER HUB
 
 [23-Feb-19 07:34 AM] LEMON JUICE#1816
 kk
 
 [23-Feb-19 10:40 AM] Lillwargen#7666
-@everyone I have approved his house, its not done yet but i made him a deal, he will rebuild the pathway to the lighthouse, it is very beautiful on the inside will probably be on the outside too, soon. also the one who locked the signs remove them! they are not locked by me or Andy so please remove them, as thanks i was allowed to give the resturant a name: Red Dock Curry Bar! Its is not to be taken down!@everyone The new pathway will go here in the future, rebuilt by @Andy with his on pocket!
-Attachment: https://cdn.discordapp.com/attachments/540758100810924069/548891836110995486/2019-02-23_16.39.19.pnghttps://cdn.discordapp.com/attachments/540758100810924069/548892900336074752/2019-02-23_16.34.16.png
+@everyone
+ I have approved his house, its not done yet but i made him a deal, he will rebuild the pathway to the lighthouse, it is very beautiful on the inside will probably be on the outside too, soon. also the one who locked the signs remove them! they are not locked by me or Andy so please remove them, as thanks i was allowed to give the resturant a name: Red Dock Curry Bar! Its is not to be taken down!
+@everyone
+ The new pathway will go here in the future, rebuilt by 
+@Andy
+ with his on pocket!
+Attachment: https://cdn.discordapp.com/attachments/540758100810924069/548891836110995486/2019-02-23_16.39.19.png
+Attachment: https://cdn.discordapp.com/attachments/540758100810924069/548892900336074752/2019-02-23_16.34.16.png
 
 [23-Feb-19 10:55 AM] Lillwargen#7666
-@everyone Idk who Miguel is but if you know who it is tell them to remove the signs as i suspect they also locked them!@everyone  Since everyone complains so much, Andy asked me to ask you guys how you would like it to look, removed is not a valid option¨
+@everyone
+ Idk who Miguel is but if you know who it is tell them to remove the signs as i suspect they also locked them!
+@everyone
+  Since everyone complains so much, Andy asked me to ask you guys how you would like it to look, removed is not a valid option¨
 Attachment: https://cdn.discordapp.com/attachments/540758100810924069/548895670702964736/2019-02-23_16.53.46.png
 
 [23-Feb-19 11:19 AM] LEMON JUICE#1816
 Like some indian curry palace idk
 
 [23-Feb-19 11:19 AM] Lillwargen#7666
-@everyone This place has potential and any form of griefing will be a personal offence against me
+@everyone
+ This place has potential and any form of griefing will be a personal offence against me
 Attachment: https://cdn.discordapp.com/attachments/540758100810924069/548901783771152394/2019-02-23_17.18.49.png
 
 [23-Feb-19 11:48 AM] LEMON JUICE#1816
-@everyone  ALEX HAS SPILLED THE BEANS AND NEW MODS WILL BE ANNOUNCED MACH 1ST AT THE LATEST STAND BY
+@everyone
+  ALEX HAS SPILLED THE BEANS AND NEW MODS WILL BE ANNOUNCED MACH 1ST AT THE LATEST STAND BY
 
 [23-Feb-19 05:36 PM] APeninSpace#7335
 Wait didn’t the rest of the council agree to tear it down?
 
 [23-Feb-19 05:47 PM] Lillwargen#7666
-No we didn"t
+No we didn't
 
 [23-Feb-19 06:07 PM] James B#9189
-@Red Dock Citizens It has been decided that Red Dock will stay neutral this does not mean we wont retaliate if we get attacked
+@Red Dock Citizens
+ It has been decided that Red Dock will stay neutral this 
+does not
+ mean we wont retaliate if we get attacked
 
 [23-Feb-19 07:05 PM] Lillwargen#7666
-@Red Dock Citizens There was this thing called GDI, its like a mini nato, so anybody who joins will have to leave Red Dock since we are a neutral town! (contact me for my information why)
+@Red Dock Citizens
+ There was this thing called GDI, its like a mini nato, so anybody who joins will have to leave Red Dock since we are a neutral town! (contact me for my information why)
 
 [27-Feb-19 03:10 PM] Lillwargen#7666
-@Red Dock Citizens over the days there have been tensions with the GDI, well today we have formed an official Friends and none aggression pact. Have a good day!
+@Red Dock Citizens
+ over the days there have been tensions with the GDI, well today we have formed an official Friends and none aggression pact. Have a good day!
 
 [03-Mar-19 03:21 PM] James B#9189
-@Red Dock Citizens who would be interested in being in the red dock army its not something that you will be always doing it just if he get attacked or something. if you are interested please react with 
+@Red Dock Citizens
+ who would be interested in being in the red dock army its not something that you will be always doing it just if he get attacked or something. if you are interested please react with 
 
 [03-Mar-19 06:52 PM] James B#9189
 not 100% sure we are doing it i just wanna see how many peeps are interested
 
 [03-Mar-19 09:50 PM] Lillwargen#7666
-@everyone We have decided and an army is being formed! applications below!
+@everyone
+ We have decided and an army is being formed! applications below!
 
 [05-Mar-19 10:44 AM] James B#9189
-@Red Dock Citizens for anyone wishing to join the army please fill in the application above
+@Red Dock Citizens
+ for anyone wishing to join the army please fill in the application above
 
 [05-Mar-19 12:10 PM] James B#9189
-@Red Dock Citizens https://www.reddit.com/r/RedDock have at it post ur shitty memes on itr/RedDock
+@Red Dock Citizens
+ 
+https://www.reddit.com/r/RedDock
+ have at it post ur shitty memes on it
+r/RedDock
 
 [06-Mar-19 04:01 PM] Lillwargen#7666
-@Red Dock Citizens If any of you, soldier or not, have any questions, offers or other things you would like to ask, come directly to me, as James and pen will also just point in my direction. Thank you.
+@Red Dock Citizens
+ If any of you, soldier or not, have any questions, offers or other things you would like to ask, come directly to me, as James and pen will also just point in my direction. Thank you.
 
 [06-Mar-19 04:02 PM] James B#9189
 (about the army)
 
 [07-Mar-19 01:51 AM] APeninSpace#7335
-we need to be more inclusiveask questions about the leggy as well
+we need to be more inclusive
+ask questions about the leggy as well
 
 [07-Mar-19 09:13 AM] James B#9189
-portal relocation is under way if you wish to provide materials or help please contact mealso open to any suggestions to make is look gud
+portal relocation is under way if you wish to provide materials or help please contact me
+also open to any suggestions to make is look gud
 
 [07-Mar-19 10:48 AM] APeninSpace#7335
 How about we make a giant metal penis infront of it
@@ -290,7 +463,10 @@ How about we make a giant metal penis infront of it
 your too attached to that idea
 
 [07-Mar-19 09:22 PM] James B#9189
-@Red Dock Citizens for anything big that you would need permission to make e.g. a colony ping me or @deleted-role srry for the ping
+@Red Dock Citizens
+ for anything big that you would need permission to make e.g. a colony ping me or 
+@deleted-role
+ srry for the ping
 
 [07-Mar-19 10:31 PM] James B#9189
 HIRING NEWS PUBLISHERS i know right how exciting if you wanna be one please react with 
@@ -299,7 +475,11 @@ HIRING NEWS PUBLISHERS i know right how exciting if you wanna be one please reac
 sorry for the stupid amount of pings today we had to deal with a fucking degenerate today
 
 [09-Mar-19 04:42 PM] James B#9189
-we are trying to sort out the slight issues by sorting out the army please donate as much as you can top priorities are emeralds and diamonds @Red Dock Citizens sorry for the pingthere is a donations hopper if you head to the armoury in the barracksbasically gib money
+we are trying to sort out the slight issues by sorting out the army please donate as much as you can top priorities are emeralds and diamonds 
+@Red Dock Citizens
+ sorry for the ping
+there is a donations hopper if you head to the armoury in the barracks
+basically gib money
 
 [09-Mar-19 05:41 PM] LEMON JUICE#1816
 Why do we need emerald
@@ -308,37 +488,51 @@ Why do we need emerald
 trading
 
 [13-Mar-19 01:55 AM] James B#9189
-@everyone it has just been announced to me that @danvivos is leaving the Minecraft server until next reset to study he has been a vital part of this community and the development of Red Dock and I wish him good luck on his studies we will be ever waiting for his return. sorry for the ping I felt this was important and people would like to know.
+@everyone
+ it has just been announced to me that 
+@danvivos
+ is leaving the Minecraft server until next reset to study he has been a vital part of this community and the development of Red Dock and I wish him good luck on his studies we will be ever waiting for his return. sorry for the ping I felt this was important and people would like to know.
 
 [13-Mar-19 01:55 AM] Mr Ma’am#7079
 Aw
 
 [13-Mar-19 01:57 AM] APeninSpace#7335
-RipDid he lose his god stuff for the 7th time
+Rip
+Did he lose his god stuff for the 7th time
 
 [13-Mar-19 01:57 AM] James B#9189
 no hes gonna study pen
 
 [16-Mar-19 10:04 AM] James B#9189
-@everyone WE HIT 1 MILL SUBS WOOOOOO
+@everyone
+ WE HIT 1 MILL SUBS WOOOOOO
 
 [16-Mar-19 10:11 AM] APeninSpace#7335
-watyou mean r/teens
+wat
+you mean r/teens
 
 [16-Mar-19 11:24 AM] James B#9189
 yes
 
 [16-Mar-19 04:09 PM] James B#9189
-for those who are wondering why the spawn portal is broken blame @OverFast
+for those who are wondering why the spawn portal is broken blame 
+@OverFast
 
 [16-Mar-19 07:12 PM] Lillwargen#7666
-@Red Dock Citizens I"ve talked with one of shen"s friends and we made a deal, he wanted us to stop hating on Shen, of course are we all angry over what he did but we talked about it so heres the deal: Right now we will stop hating on Shen as long as he stays out of red dock, he is KOS (kill on sight) so we can and will kill him if he sets a foot in our beautiful town, but outside the town it is illegal to kill him in the name of Red Dock. This deal was done to hopefully not risk any future conflicts, but always be on guard and report to a high ranking member if he is spotted. Have a good day and stay safe!
+@Red Dock Citizens
+ I've talked with one of shen's friends and we made a deal, he wanted us to stop hating on Shen, of course are we all angry over what he did but we talked about it so heres the deal: Right now we will stop hating on Shen as long as he stays out of red dock, he is KOS (kill on sight) so we can and will kill him if he sets a foot in our beautiful town, but outside the town it is illegal to kill him in the name of Red Dock. This deal was done to hopefully not risk any future conflicts, but always be on guard and report to a high ranking member if he is spotted. Have a good day and stay safe!
 
 [16-Mar-19 07:13 PM] James B#9189
 wow very epic
 
 [18-Mar-19 11:53 AM] James B#9189
-@Red Dock Citizens I am looking for 1 or 2 more captains if you wish to be one just fill in the application below if you wish to know more about what a captains job is just ask one of the @deleted-role https://docs.google.com/forms/d/e/1FAIpQLSfAVC63l9UxhFTq864GyRXhBiILr21g1QvaYf-ne79TxTeRzQ/viewform?usp=sf_linkCaptain ApplicationPinned a message.
+@Red Dock Citizens
+ I am looking for 1 or 2 more captains if you wish to be one just fill in the application below if you wish to know more about what a captains job is just ask one of the 
+@deleted-role
+ 
+https://docs.google.com/forms/d/e/1FAIpQLSfAVC63l9UxhFTq864GyRXhBiILr21g1QvaYf-ne79TxTeRzQ/viewform?usp=sf_link
+Captain Application
+Pinned a message.
 
 [18-Mar-19 11:38 PM] Snekky#6713
 THEO PERM BANNED
@@ -348,28 +542,46 @@ Attachment: https://cdn.discordapp.com/attachments/540758100810924069/5574075798
 holy shit
 
 [19-Mar-19 02:52 PM] James B#9189
-@Red Dock Citizens applications for captain close tomorrow morning GMT results will be released as soon as possible after the applications close
+@Red Dock Citizens
+ applications for captain close tomorrow morning GMT results will be released as soon as possible after the applications close
 
 [20-Mar-19 12:48 PM] James B#9189
 Applications are closed will have results soon
 
 [20-Mar-19 02:16 PM] James B#9189
-Congratulations to our new captains @Dragon and @Kaviars it was a tough choice to choose with soo many good applications sorry for those who did not get it we still love you.
+Congratulations to our new captains 
+@Dragon
+ and 
+@Kaviars
+ it was a tough choice to choose with soo many good applications sorry for those who did not get it we still love you.
 
 [20-Mar-19 06:42 PM] APeninSpace#7335
-JamesMight wanna change the wording thereI read it in segments and I thought it said “I have fucked a sheep”
+James
+Might wanna change the wording there
+I read it in segments and I thought it said “I have fucked a sheep”
 
 [22-Mar-19 06:01 PM] James B#9189
-@everyone go watch overfasts stream https://www.twitch.tv/overfasteroverfaster - TwitchMinecraft SL gang
+@everyone
+ go watch overfasts stream 
+https://www.twitch.tv/overfaster
+overfaster - Twitch
+Minecraft SL gang
+Attachment: https://www.twitch.tv/overfaster
+Attachment: chatlog__embed-title-link
+Attachment: chatlog__embed-thumbnail-link
 
 [22-Mar-19 10:20 PM] APeninSpace#7335
-@everyone the anime channel has been permanently removed for ignoring multiple warnings about sharing porn after the nsfw chat got removed
+@everyone
+ the anime channel has been permanently removed for ignoring multiple warnings about sharing porn after the nsfw chat got removed
 
 [23-Mar-19 09:51 PM] James B#9189
-After a recent "incident" the anime channel was temporarily shut down it has now been re-opened however it is only accessible with the @Anime role and also all nsfw stuff is not allowed the channel is just for people who want to chat about anime for those who wish to have the role please contact one of the @deleted-role
+After a recent 'incident' the anime channel was temporarily shut down it has now been re-opened however it is only accessible with the 
+@Anime
+ role and also all nsfw stuff is not allowed the channel is just for people who want to chat about anime for those who wish to have the role please contact one of the 
+@deleted-role
 
 [26-Mar-19 03:20 PM] Lillwargen#7666
-I"m away skiing until Tuesday so I won"t be able to help y"all, contact James or pen while I"m away. have a nice weekend
+I'm away skiing until Tuesday so I won't be able to help y'all, contact James or pen while I'm away. have a nice weekend
 
 [26-Mar-19 04:11 PM] James B#9189
 So couple of things will/shen has changed his name to thexwoman4019k also the GDI has officially shut down
@@ -378,19 +590,21 @@ So couple of things will/shen has changed his name to thexwoman4019k also the GD
 F
 
 [28-Mar-19 06:18 AM] Lillwargen#7666
-@everyone listen boys and girls from Europe, r/dankmemes has banned me from participating because I"m from Europe, this is a alert to everyone from Europe
+@everyone
+ listen boys and girls from Europe, r/dankmemes has banned me from participating because I'm from Europe, this is a alert to everyone from Europe
 
 [28-Mar-19 06:19 AM] Snekky#6713
 lmao
 
 [28-Mar-19 06:21 AM] Lillwargen#7666
-Stfu I"m pissed
+Stfu I'm pissed
 
 [28-Mar-19 01:41 PM] Snekky#6713
 james ran into a cactus and lost his shulkie
 
 [28-Mar-19 01:43 PM] James B#9189
-right ok thats bullshityou covered my shulkie in cactus then i couldn"t be bothered to properly remove the cacti then rip shulkie
+right ok thats bullshit
+you covered my shulkie in cactus then i couldn't be bothered to properly remove the cacti then rip shulkie
 
 [28-Mar-19 01:43 PM] Snekky#6713
 low iq plays
@@ -403,7 +617,13 @@ smh
 
 [31-Mar-19 09:53 AM] APeninSpace#7335
 https://reddit.com/r/teenagers/comments/b7ko4b/do_not_stick_your_dick_inside_a_shampoo_bottle/
-@everyone just a reminder that if you make cursed copypastas like this you will be KoS.r/teenagers - Do NOT stick your dick inside a shampoo bottle13,213 votes and 976 comments so far on Reddit
+
+@everyone
+ just a reminder that if you make cursed copypastas like this you will be KoS.
+r/teenagers - Do NOT stick your dick inside a shampoo bottle
+13,213 votes and 976 comments so far on Reddit
+Attachment: https://reddit.com/r/teenagers/comments/b7ko4b/do_not_stick_your_dick_inside_a_shampoo_bottle/
+Attachment: chatlog__embed-title-link
 
 [01-Apr-19 08:03 AM] Snekky#6713
 no balls
@@ -418,19 +638,24 @@ when negotiation fails so you delete it
 works every time
 
 [01-Apr-19 08:06 AM] Snekky#6713
-i have evidence now uwusomeone dun goofed
+i have evidence now uwu
+someone dun goofed
 
 [01-Apr-19 08:23 AM] APeninSpace#7335
 High IQ plays
 
 [01-Apr-19 08:37 AM] Snekky#6713
-guysiamkidtendo
+guys
+i
+am
+kidtendo
 
 [01-Apr-19 08:38 AM] James B#9189
 hmm
 
 [01-Apr-19 09:52 AM] Lillwargen#7666
-@everyone Me, James and Pen are sad to announce that Red Dock will be disbanded, and will not be re-creatable, this discord server will be deleted tomorrow at 8am gmt, Thank you for playing with us. best of luck to you all from me, James and Pen.
+@everyone
+ Me, James and Pen are sad to announce that Red Dock will be disbanded, and will not be re-creatable, this discord server will be deleted tomorrow at 8am gmt, Thank you for playing with us. best of luck to you all from me, James and Pen.
 
 [01-Apr-19 09:55 AM] APeninSpace#7335
 Guys let’s found reddock 3
@@ -439,83 +664,122 @@ Guys let’s found reddock 3
 yay no more shid dock
 
 [01-Apr-19 09:57 AM] APeninSpace#7335
-@everyone last action will be a raid on the old town of opportunity, to wipe our presence off the map. Have fun.
+@everyone
+ last action will be a raid on the old town of opportunity, to wipe our presence off the map. Have fun.
 
 [01-Apr-19 09:57 AM] Snekky#6713
 bruh i just lost my pants hol up
 
 [01-Apr-19 05:00 PM] James B#9189
-@everyone as alot of you have already figured out those announcements were a joke as it is April fools ngl alot more people then I thought would did fall for it.
+@everyone
+ as alot of you have already figured out those announcements were a joke as it is April fools ngl alot more people then I thought would did fall for it.
 
 [01-Apr-19 11:34 PM] APeninSpace#7335
-@James B you not importantgrand admiral best position
+@James B
+ you not important
+grand admiral best position
 Attachment: https://cdn.discordapp.com/attachments/540758100810924069/562462254604353547/image0.png
 
 [02-Apr-19 04:12 PM] James B#9189
-Exciting announcement @Zepp is going to read the communist manifesto in the public call feel free to join in our first reading club session
+Exciting announcement 
+@Zepp
+ is going to read the communist manifesto in the public call feel free to join in our first reading club session
 
 [02-Apr-19 09:34 PM] James B#9189
 why are you taking so long to type overfast is it because you cant reach the keyboard or somthing
 
 [02-Apr-19 09:36 PM] APeninSpace#7335
-overfastI give you permission to continue
+overfast
+I give you permission to continue
 
 [02-Apr-19 09:50 PM] Snekky#6713
 ha gottem
 Attachment: https://cdn.discordapp.com/attachments/540758100810924069/562816137784721411/unknown.png
 
 [03-Apr-19 07:59 AM] Snekky#6713
-okso basicallyi made a painting resource pack
+ok
+so basically
+i made a painting resource pack
 Attachment: https://cdn.discordapp.com/attachments/540758100810924069/562969533011197963/smegs_shitpost.zip
 
 [03-Apr-19 08:01 AM] Lillwargen#7666
-https://tenor.com/view/ted-teddy-bear-theres-so-much-porn-shocked-surprised-gif-4233104so much
+https://tenor.com/view/ted-teddy-bear-theres-so-much-porn-shocked-surprised-gif-4233104
+so much
+Attachment: https://tenor.com/view/ted-teddy-bear-theres-so-much-porn-shocked-surprised-gif-4233104
+Attachment: chatlog__embed-title-link
+Attachment: chatlog__embed-thumbnail-link
 
 [03-Apr-19 08:02 AM] Snekky#6713
 yes
 
 [04-Apr-19 06:55 AM] Snekky#6713
-oh im black nownword time
+oh im black now
+nword time
 Attachment: https://cdn.discordapp.com/attachments/540758100810924069/563036521918103577/unknown.png
 
 [04-Apr-19 06:55 AM] James B#9189
 wait
 
 [04-Apr-19 07:27 AM] APeninSpace#7335
-anyway @deleted-role I would like to apologise for my rash actions regarding the town. You guys know what I did.
+anyway 
+@deleted-role
+ I would like to apologise for my rash actions regarding the town. You guys know what I did.
 
 [04-Apr-19 11:43 PM] Snekky#6713
-reminder to use my resource packignore what lillwargen said
+reminder to use my resource pack
+ignore what lillwargen said
 
 [04-Apr-19 11:56 PM] APeninSpace#7335
-as the official reddock advisor, I would advise you not to do what @Snekky saidunless you"re a furry
+as the official reddock advisor, I would advise you not to do what 
+@Snekky
+ said
+unless you're a furry
 
 [07-Apr-19 01:05 PM] Snekky#6713
-theo man badPinned a message.
+theo man bad
+Pinned a message.
 
 [07-Apr-19 06:54 PM] APeninSpace#7335
-Theo man mediocre because it’s fucking minecraft could we actually act mature about something for two secondsPinned a message.
+Theo man mediocre because it’s fucking minecraft could we actually act mature about something for two seconds
+Pinned a message.
 
 [11-Apr-19 10:06 AM] James B#9189
-teehee https://www.twitch.tv/topbuntvTopbunTV - Twitch[EN] | warthunder grinding the new event | 720p 60fps |
+teehee 
+https://www.twitch.tv/topbuntv
+TopbunTV - Twitch
+[EN] | warthunder grinding the new event | 720p 60fps |
 
 [13-Apr-19 08:39 PM] APeninSpace#7335
-Just posting here to flex on @SnekkyUnfortunately I can’t post in newsAnd now I can’t post here either
+Just posting here to flex on 
+@Snekky
+Unfortunately I can’t post in news
+And now I can’t post here either
 
 [14-Apr-19 05:04 AM] Dragon#2355
 If you arent a fan of anime you wont and will not have the anime role. Period
 
 [15-Apr-19 01:11 PM] James B#9189
-@everyone a few discord changes if you wish to join in the movie nights please pm @Zepp and there is also a @deleted-role role if you wish to have that inform on of the @deleted-role
+@everyone
+ a few discord changes if you wish to join in the movie nights please pm 
+@Zepp
+ and there is also a 
+@deleted-role
+ role if you wish to have that inform on of the 
+@deleted-role
 
 [16-Apr-19 04:57 AM] Lillwargen#7666
-10 upvotes and I"ll roast pen monthy python style
+10 upvotes and I'll roast pen monthy python style
 
 [16-Apr-19 05:07 AM] Lillwargen#7666
-@everyone c"mon I really wanna do itOk fuckit imma do it anyway like a madlad@APeninSpace thy mother is a emu and your father smelt of vegimite
+@everyone
+ c'mon I really wanna do it
+Ok fuckit imma do it anyway like a madlad
+@APeninSpace
+ thy mother is a emu and your father smelt of vegimite
 
 [16-Apr-19 05:13 AM] Snekky#6713
-i gave myself perms just to ping@everyone
+i gave myself perms just to ping
+@everyone
 
 [16-Apr-19 05:14 AM] Lillwargen#7666
 Snekky stop
@@ -524,16 +788,28 @@ Snekky stop
 Smeg gave me perms to talk here for some reason
 
 
-Edit: council gives perms to talk here for some reasonAgain10  emojis and I will literally harass weebsSmeg’s gonna oppress meAnd take my council roleHe legit gave me council and nothing elseDragon gave me the rest as a good member of government
+Edit: council gives perms to talk here for some reason
+Again
+10 
+ emojis and I will literally harass weebs
+Smeg’s gonna oppress me
+And take my council role
+He legit gave me council and nothing else
+Dragon gave me the rest as a good member of government
 
 [17-Apr-19 08:39 AM] APeninSpace#7335
-@James B If I cant have #deleted-channel perms at least take away my talk perms hereBe consi
+@James B
+ If I cant have 
+#deleted-channel
+ perms at least take away my talk perms here
+Be consi
 
 [17-Apr-19 08:40 AM] Snekky#6713
 bruh
 
 [17-Apr-19 08:41 AM] James B#9189
-@Snekky remove his council ree
+@Snekky
+ remove his council ree
 
 [17-Apr-19 08:41 AM] APeninSpace#7335
 Oh god oh fuck
@@ -542,31 +818,38 @@ Oh god oh fuck
 ok dad
 
 [17-Apr-19 12:19 PM] Lillwargen#7666
-@everyone Because of the burning in france ubisoft is now giving away assassins creed unity for free, claim it while you can
+@everyone
+ Because of the burning in france ubisoft is now giving away assassins creed unity for free, claim it while you can
 
 [17-Apr-19 12:19 PM] Snekky#6713
 lossofalovedone
 
 [17-Apr-19 12:20 PM] James B#9189
-only on ubisoft store btwhttp://assassinscreed.com/unity-notredame/
+only on ubisoft store btw
+http://assassinscreed.com/unity-notredame/
 
 [19-Apr-19 10:53 AM] Snekky#6713
 https://tenor.com/view/sanesss-sans-undertale-unitale-gif-5478072
 
 [19-Apr-19 12:45 PM] James B#9189
-@everyone As some of you may have heard I am not planning to run for Red Dock Council, I have been part of the council since the very formation of it and it has been fucking amazing to see Red Dock grow from the humble hamlet it used to be to the Mega City it is now, I’ve seen it all from the building of the nether tunnels to the rise and fall of the UN, the rise of many cities and the downfall of many too. I’ve enjoyed being such an influential part of this community and I hope you enjoyed me being in it as well. I’ve met many people because of this town and made many friends because of it. A few of you know I’ve been looking to find someone else to be the mayor for a few months now and I feel the election will do that job well, I hope you choose them well. I will still be Head Admin of the Discord I just won"t be in charge of any of the Minecraft stuff. I wish this city greatness, try not to fuck it up :)
+@everyone
+ As some of you may have heard I am not planning to run for Red Dock Council, I have been part of the council since the very formation of it and it has been fucking amazing to see Red Dock grow from the humble hamlet it used to be to the Mega City it is now, I’ve seen it all from the building of the nether tunnels to the rise and fall of the UN, the rise of many cities and the downfall of many too. I’ve enjoyed being such an influential part of this community and I hope you enjoyed me being in it as well. I’ve met many people because of this town and made many friends because of it. A few of you know I’ve been looking to find someone else to be the mayor for a few months now and I feel the election will do that job well, I hope you choose them well. I will still be Head Admin of the Discord I just won't be in charge of any of the Minecraft stuff. I wish this city greatness, try not to fuck it up :)
 
 [19-Apr-19 01:09 PM] Lillwargen#7666
-@everyone On a side note on what James said, As i will have to rerun to become part of the council again i will still be Admin and help out on the server, Cheers
+@everyone
+ On a side note on what James said, As i will have to rerun to become part of the council again i will still be Admin and help out on the server, Cheers
 
 [19-Apr-19 09:37 PM] James B#9189
 Pinned a message.
 
 [28-Apr-19 09:06 AM] Lillwargen#7666
-@everyone stop being rude to Dragon, and if you don"t, well let"s just say we will have a real fun police here
+@everyone
+ stop being rude to Dragon, and if you don't, well let's just say we will have a real fun police here
 
 [09-May-19 08:52 AM] James B#9189
-@everyone we are redoing the discords logo if you wish to add submissions feel free to dm them to mewow look first full server ping in a while
+@everyone
+ we are redoing the discords logo if you wish to add submissions feel free to dm them to me
+wow look first full server ping in a while
 
 [09-May-19 08:53 AM] Lillwargen#7666
 Why are you called the last embodiment of a banhammer?
@@ -578,40 +861,53 @@ living*
 Oh
 
 [11-May-19 01:45 PM] James B#9189
-@everyone Vote you fuckers https://forms.gle/aKZ7iDGUnWF3m6HK9Server Icon
+@everyone
+ Vote you fuckers 
+https://forms.gle/aKZ7iDGUnWF3m6HK9
+Server Icon
 
 [11-May-19 02:02 PM] James B#9189
 those who have already voted before this message please vote again there was an issue
 
 [17-May-19 01:53 AM] Lillwargen#7666
-@everyone TODAY IS MINECRAFT"S 10 YEAR ANNIVERSARY! HAVE A NICE DAY EVERYONE!@everyone It"s apparently A Weeb In Spaces birthday, he"s finally 14!
+@everyone
+ TODAY IS MINECRAFT'S 10 YEAR ANNIVERSARY! HAVE A NICE DAY EVERYONE!
+@everyone
+ It's apparently A Weeb In Spaces birthday, he's finally 14!
 
 [17-May-19 02:34 AM] James B#9189
-P I N GREEEEEEEEEEEEEE
+P I N G
+REEEEEEEEEEEEEE
 
 [17-May-19 01:55 PM] James B#9189
-@everyone big PVE event in the end at 2 AM UTC they will be handing out stars
+@everyone
+ big PVE event in the end at 2 AM UTC they will be handing out stars
 
 [19-May-19 10:33 AM] Lillwargen#7666
-@everyone so um, I guess I run the place now
+@everyone
+ so um, I guess I run the place now
 
 [19-May-19 10:37 AM] APeninSpace#7335
 sweden is the most chad country
 
 [20-May-19 10:41 AM] Lillwargen#7666
-for those who used the finland emote, I"m half Finnish
+for those who used the finland emote, 
+I'm half Finnish
 
 [10-Jun-19 06:12 AM] Lillwargen#7666
-@everyone This message is only for people with banning capabilities: You from now on need to tell me before you ban someone, as there recently was a banning that I had no idea even took place. Banning someone without telling me is from now on punishable with you losing your powers and even a temp ban if you had gone to far
+@everyone
+ This message is only for people with banning capabilities: You from now on need to tell me before you ban someone, as there recently was a banning that I had no idea even took place. Banning someone without telling me is from now on punishable with you losing your powers and even a temp ban if you had gone to far
 
 [11-Jun-19 08:41 AM] Lillwargen#7666
-@everyonehttps://tenor.com/view/its-tuesday-my-dudes-tuesday-pewdiepie-gif-14185818
+@everyone
+https://tenor.com/view/its-tuesday-my-dudes-tuesday-pewdiepie-gif-14185818
 
 [14-Jun-19 06:01 AM] Lillwargen#7666
 so summer brake just started so now I can watch over your stupid asses at almost a 24/7 rate
 
 [26-Jun-19 10:16 PM] Lillwargen#7666
-@everyone Something actually important: The council has been too inactive for too long, me and Leon had decided to disband it and form a new government, the old council member have received a veterans role, expect changes soon
+@everyone
+ Something actually important: The council has been too inactive for too long, me and Leon had decided to disband it and form a new government, the old council member have received a veterans role, expect changes soon
 
 [26-Jun-19 10:16 PM] ДLҬ LЭҒҐ#5980
 And im orange now
@@ -623,7 +919,8 @@ And admins will still be admins
 Aka just james because dan is dead
 
 [27-Jun-19 11:50 AM] ДLҬ LЭҒҐ#5980
-@everyone make a reaction to this message if your active on the server (ingame) or plan to be in the future, i would @ citzens and friends only but discord big gay
+@everyone
+ make a reaction to this message if your active on the server (ingame) or plan to be in the future, i would @ citzens and friends only but discord big gay
 
 [27-Jun-19 11:54 AM] James B#9189
 Oh ffs why do you have @ everyone
@@ -641,39 +938,60 @@ No im just an idiot
  the randos are gone 
 
 [14-Jul-19 02:02 AM] ДLҬ LЭҒҐ#5980
-Happy birthday to Stanislav Petrov@Lillwargen let me make him the server pic for a dayIf he doesn"t respond in an hour im doing it
+Happy birthday to Stanislav Petrov
+@Lillwargen
+ let me make him the server pic for a day
+If he doesn't respond in an hour im doing it
 Attachment: https://cdn.discordapp.com/attachments/540758100810924069/599843118443003905/download_1.jpeg
 
 [14-Jul-19 06:30 AM] Lillwargen#7666
-MateYou sent that at 8amI WAS FUCKING SLEEPINGBut yes it"s ok because he prevented ww3Which is good since I wasn"t born yet, but now I am so bring on the war
+Mate
+You sent that at 8am
+I WAS FUCKING SLEEPING
+But yes it's ok because he prevented ww3
+Which is good since I wasn't born yet, but now I am so bring on the war
 
 [14-Jul-19 11:02 AM] ДLҬ LЭҒҐ#5980
 Imagine sleeping till noon
 
 [19-Jul-19 03:19 PM] ДLҬ LЭҒҐ#5980
-@everyone join for non videogame topics with the tgn community (including meme channel) https://discord.gg/naqjCAk
+@everyone
+ join for non videogame topics with the tgn community (including meme channel) 
+https://discord.gg/naqjCAk
 
 [02-Aug-19 01:17 AM] ДLҬ LЭҒҐ#5980
-@everyone if you haven"t seen for whatever reason, we are free from teenserv snd bans are getting resetAnd no custom gen
+@everyone
+ if you haven't seen for whatever reason, we are free from teenserv snd bans are getting reset
+And no custom gen
 
 [02-Aug-19 02:54 PM] ДLҬ LЭҒҐ#5980
-@everyone https://docs.google.com/document/d/1ob9UAEmLnKi6cWpLEgTcpHrLEINQ8g1A3zXoU0N3SaY/editTGN-Master-DocumentPreamble   This document has the misconduct, disrespect, and poor decision making in the modchats of TGN and the r/Teenagers discord server. It was made using a big leak of moderator chats in those servers. This doc is focused on the TGN side, and has two parts:  Snippets of ...
+@everyone
+ 
+https://docs.google.com/document/d/1ob9UAEmLnKi6cWpLEgTcpHrLEINQ8g1A3zXoU0N3SaY/edit
+TGN-Master-Document
+Preamble   This document has the misconduct, disrespect, and poor decision making in the modchats of TGN and the r/Teenagers discord server. It was made using a big leak of moderator chats in those servers. This doc is focused on the TGN side, and has two parts:  Snippets of ...
 
 [10-Aug-19 02:45 AM] Lillwargen#7666
-Leon is taking a break from discord so I"m gonna have to temporarily be a dictatorEbic
+Leon is taking a break from discord so I'm gonna have to temporarily be a dictator
+Ebic
 
 [10-Aug-19 04:25 AM] ДLҬ LЭҒҐ#5980
-@everyone felt like i should make an actual goodbye message or whatever, I"m going to be gone, probably until November, to focus on school. If you want to contact me cello and logan have my number so ask them to text me. This was a great town and its a shame its fallen into obscurity so much. Good luck in whatever your doing in 1.14 and i hope we can meet again (except you nino fuck you )
+@everyone
+ felt like i should make an actual goodbye message or whatever, I'm going to be gone, probably until November, to focus on school. If you want to contact me cello and logan have my number so ask them to text me. This was a great town and its a shame its fallen into obscurity so much. Good luck in whatever your doing in 1.14 and i hope we can meet again (except you nino fuck you 
+)
 
 [10-Aug-19 04:28 AM] Lillwargen#7666
-It"s big sad timeIt"s dictatorship time
+It's big sad time
+It's dictatorship time
 
 [12-Aug-19 12:01 AM] danvivos#3447
 so I heard there was a power vacuum
 
 [12-Aug-19 06:17 AM] James B#9189
-oh that sucks
+oh that 
+sucks
 
 [22-Aug-19 07:14 AM] ДLҬ LЭҒҐ#5980
-@everyone we can finally leave trash oppo serv
+@everyone
+ we can finally leave trash oppo serv
 https://discord.gg/UMPT8B
